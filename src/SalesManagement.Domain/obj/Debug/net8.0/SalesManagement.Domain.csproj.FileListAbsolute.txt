@@ -1,0 +1,11 @@
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\bin\Debug\net8.0\SalesManagement.Domain.deps.json
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\bin\Debug\net8.0\SalesManagement.Domain.dll
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\bin\Debug\net8.0\SalesManagement.Domain.pdb
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\SalesManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\SalesManagement.Domain.AssemblyInfoInputs.cache
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\SalesManagement.Domain.AssemblyInfo.cs
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\SalesManagement.Domain.csproj.CoreCompileInputs.cache
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\SalesManagement.Domain.dll
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\refint\SalesManagement.Domain.dll
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\SalesManagement.Domain.pdb
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\ref\SalesManagement.Domain.dll
