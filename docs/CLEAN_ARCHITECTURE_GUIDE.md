@@ -605,6 +605,9 @@ Mọi thao tác I/O bất đồng bộ phải truyền `CancellationToken` từ 
 - SQL Server hoặc SQL Server Express/Developer.
 - EF Core CLI `dotnet-ef` phiên bản tương thích 8.x.
 
+## 10.1.1 Clone the repository
+git clone https://github.com/minhbitas2k4/CleanArchitecture.git
+
 ## 10.2 Connection string
 
 Connection string mặc định nằm trong `src/SalesManagement.Api/appsettings.json`:
