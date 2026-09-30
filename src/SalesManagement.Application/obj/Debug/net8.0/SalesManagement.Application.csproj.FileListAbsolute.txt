@@ -13,3 +13,4 @@ F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Application\obj\Debug\net8.0\S
 F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Application\obj\Debug\net8.0\refint\SalesManagement.Application.dll
 F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Application\obj\Debug\net8.0\SalesManagement.Application.pdb
 F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Application\obj\Debug\net8.0\ref\SalesManagement.Application.dll
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Application\obj\Debug\net8.0\SalesManagement.Application.sourcelink.json

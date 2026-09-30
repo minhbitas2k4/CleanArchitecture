@@ -17,3 +17,4 @@ F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Infrastructure\obj\Debug\net8.
 F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Infrastructure\obj\Debug\net8.0\SalesManagement.Infrastructure.pdb
 F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Infrastructure\obj\Debug\net8.0\SalesManagement.Infrastructure.genruntimeconfig.cache
 F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Infrastructure\obj\Debug\net8.0\ref\SalesManagement.Infrastructure.dll
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Infrastructure\obj\Debug\net8.0\SalesManagement.Infrastructure.sourcelink.json

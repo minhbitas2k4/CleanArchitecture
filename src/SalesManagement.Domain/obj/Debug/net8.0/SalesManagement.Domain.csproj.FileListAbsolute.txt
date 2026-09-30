@@ -9,3 +9,4 @@ F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\SalesM
 F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\refint\SalesManagement.Domain.dll
 F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\SalesManagement.Domain.pdb
 F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\ref\SalesManagement.Domain.dll
+F:\CleanArchitecture-DemoV2.0\src\SalesManagement.Domain\obj\Debug\net8.0\SalesManagement.Domain.sourcelink.json
